@@ -1,4 +1,4 @@
-use v6;
+unit module Math::FourierTransform;
 
 sub discrete-fourier-transform(Complex @input) returns Array[Complex] is export {
     my Int $n = @input.elems;
