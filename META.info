@@ -7,6 +7,6 @@
     "source-type" : "git",
     "source-url" : "git://github.com/MattOates/Math--FourierTransform.git",
     "provides" : {
-        "Math::FourierTransform" : "lib/Math/FourierTransform.pm6",
+        "Math::FourierTransform" : "lib/Math/FourierTransform.pm6"
     }
 }
